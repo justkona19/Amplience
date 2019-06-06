@@ -15,7 +15,7 @@ Below are the following steps required to execute the test :
 - Clone repo
 - Open project with visual studio 
 - Perform a build (so that all nuget packages and dependencies will be restored) 
-- Launch the test explorer window 
+- Launch the test explorer window in visual studio
 - You will see 2 test suites 
    Api Test 
    Selenium Test
